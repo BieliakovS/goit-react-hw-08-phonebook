@@ -20,7 +20,7 @@ const Filter = () => {
         type="text"
         value={filter}
         onChange={handleFilterChange}
-        placeholder="Search contacts"
+        placeholder="Пошук контактів"
       />
     </label>
   );
